@@ -1,0 +1,15 @@
+Step,Data,Command
+Open website,https://www.thesparksfoundationsingapore.org/about/vision-mission-and-values/,
+Click on Policies and Code,,//a[normalize-space()='Policies and Code']
+Click on Policies,,//a[normalize-space()='Policies']
+Click on Programs,,//a[normalize-space()='Programs']
+Click on Student Mentorship Program,,//ul[@class='dropdown-menu']//a[normalize-space()='Student Mentorship Program']
+Click on Programs,,//a[normalize-space()='Programs']
+Click on Student Scholarship Program,,//ul[@class='dropdown-menu']//a[normalize-space()='Student Scholarship Program']
+Click on LINKS,,//a[normalize-space()='LINKS']
+Click on Salient Features,,//a[normalize-space()='Salient Features']
+Click on Contact Us,,//a[normalize-space()='Contact Us']
+Click on About Us,,//a[normalize-space()='About Us']
+Click on Expert Mentors,,//a[normalize-space()='Expert Mentors']
+Click on Policies and Code,,//a[normalize-space()='Policies and Code']
+Click on Service Quality Values,,//a[normalize-space()='Service Quality Values']
